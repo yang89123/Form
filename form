@@ -1,0 +1,7 @@
+<meta charset="UTF-8">
+
+<H1>聯絡方式</H1>
+<form action="https://www.google.com/maps/dir//%E5%BC%B7%E5%B0%BC%E7%8E%A9%E5%92%96in%E8%97%8F%E5%BF%83/@24.5436018,120.7375976,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3469abe0e2a6b401:0x61eb781ce9a9da6c!2m2!1d120.807638!2d24.543618"method="GET" >
+查詢路線<input type="submit"value="map">
+<p>電話<input type="tel" pattern="[0][9][0-9]{8}" placeholder="09xxxxxxxx">
+電子信箱<input type="url" placeholder="http://it-life-wyx.blogspot.tw/">
